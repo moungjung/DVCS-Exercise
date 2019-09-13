@@ -16,7 +16,7 @@
 1. Repository
 2. File
 3. Repository
-4. Toggle fullscreen, zoom in, reset zoom, zoom out
+4. Changes, history, repository list, branch list
 5. Primary remote repository, and .gitingore file
 6. 3
 7. 1
