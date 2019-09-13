@@ -4,9 +4,9 @@
 ## Mkim21 is the NAIT account name
 
 ### Matching
-1. E
+1. F
 2. D
-3. F
+3. E
 4. B
 5. C
 6. A
